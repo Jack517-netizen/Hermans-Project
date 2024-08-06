@@ -1,6 +1,6 @@
-# hermans-project
+# Hermans-Project
 
-This template should help get you started developing with Vue 3 in Vite.
+Development of a program for determining and updating the unit selling price of works in the construction industry.
 
 ## Recommended IDE Setup
 
